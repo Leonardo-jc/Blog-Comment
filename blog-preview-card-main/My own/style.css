@@ -59,7 +59,7 @@ time{
 #blog-review h1{
     font: 1.5em monospace;
     font-weight: 950;
-    margin-top: 9%;
+    margin: 6% auto 2%;
     text-align: center;
 }
 .message{
