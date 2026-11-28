@@ -1,18 +1,16 @@
-*{
+
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+:root{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font: figtree;
     line-height: 1.5rem;
-}
-body{
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(./images/favicon-32x32.png);
-    background-repeat: no-repeat;
 }
+
 #canvas{
     width: 80vw;
     height: 90vh;
